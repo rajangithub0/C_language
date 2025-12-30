@@ -25,3 +25,16 @@ int main() {
     printf("Hello, World!");
     return 0;
 }
+Advantages
+
+High performance
+
+Better control over hardware
+
+Large community support
+
+Foundation for many modern programming languages
+
+Conclusion
+
+C is a powerful and fundamental programming language that helps build a strong base in programming and system-level concepts.
