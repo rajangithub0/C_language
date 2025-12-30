@@ -18,13 +18,14 @@ C is a general-purpose, procedural programming language developed by Dennis Ritc
 - Game development
 
 ## Basic Structure of a C Program
-
+```c
 #include <stdio.h>
 
 int main() {
     printf("Hello, World!");
     return 0;
 }
+```
 Advantages
 
 -High performance
